@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "31948766797",
+    "project_id": "jetpackfirebase",
+    "storage_bucket": "jetpackfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31948766797:android:63e9ef0ee9f46730a9e604",
+        "android_client_info": {
+          "package_name": "com.sohail.firestorejetpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31948766797-cvkm14smrqvvd9qul8rgqv7bq50ot21l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfHn8Vy9Lr5vbPqKdd1F-q3gShyL6ViI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31948766797-cvkm14smrqvvd9qul8rgqv7bq50ot21l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31948766797:android:9be72712cbd7a0e4a9e604",
+        "android_client_info": {
+          "package_name": "com.sohail.jetpackfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31948766797-cvkm14smrqvvd9qul8rgqv7bq50ot21l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfHn8Vy9Lr5vbPqKdd1F-q3gShyL6ViI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31948766797-cvkm14smrqvvd9qul8rgqv7bq50ot21l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
